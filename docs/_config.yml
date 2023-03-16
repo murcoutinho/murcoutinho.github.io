@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username:  murcoutinho
 
 # Build settings
-theme: minima
+theme: modernist
 plugins:
   - jekyll-feed
 
